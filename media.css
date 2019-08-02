@@ -1,0 +1,60 @@
+body{
+ background-image: url("https://image.freepik.com/free-vector/elegant-red-background_1340-4770.jpg");
+ background-repeat: no-repeat;
+ background-size: 2100px 2700px;
+}
+h1{
+ display: flex;
+justify-content: center;
+align-items: center;
+font-family: 'Anton', sans-serif;
+font-size: 68px;
+border-style: double;
+border-color: black;
+background:#ddd;
+border:1px solid #222;
+box-shadow:15px 15px 0 #222;
+padding-top: 10px;
+padding-bottom: 10px;
+transform: rotate(1deg);
+width: 900px;
+margin-left: 250px;
+}
+/* *{
+ background-color: #711906;
+} */
+p{
+   border-style: solid;
+   background:#ddd;
+padding: 10px;
+}
+.bod {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-family: 'Anton', sans-serif;
+ font-size: 35px;
+ flex-direction: column;
+}
+#first {
+ display: flex;
+ justify-content: flex-end;
+ width: 75%;
+ font-size: 35px;
+ font-family: 'Anton', sans-serif;
+}
+#second {
+ display: flex;
+ justify-content: flex-end;
+ width: 75%;
+}
+#third {
+ display: flex;
+ justify-content:center;
+ width: 75%;
+}
+img {
+ width:200px;
+}
+.firs{
+}

@@ -1,0 +1,117 @@
+body {
+ background-image: url("https://img.freepik.com/free-vector/elegant-red-background_1340-4770.jpg?size=338&ext=jpg");
+ background-repeat: no-repeat;
+background-size: 2100px 2700px;
+color:white;
+}
+h1{
+  color:black;
+  background:#ddd;
+  border:1px solid #222;
+  box-shadow:15px 15px 0 #222;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  transform: rotate(1deg);
+  width: 900px;
+  font-family: 'Bangers', cursive;
+  font-size: 48px;
+
+  /* margin-left: 50px; */
+}
+#second{
+  transform: rotate(-1deg);
+}
+.mission{font-size: 20pt;
+  color:black;
+  background:#ddd;
+  border:1px solid #222;
+  box-shadow:15px 15px 0 #222;
+padding: 10px;}
+/* .mission{border:5px white;} */
+
+
+#im{
+height:800px;
+width:400px;
+float:left;
+}
+
+article{
+  display: flex;
+}
+
+  #im{display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    object-fit: cover;
+}
+
+.shreya{position: relative;
+top:30px;
+left:200px;
+}
+
+.olivia{position: relative;
+top: -63px;
+left: 400px;
+}
+
+.julietta{position: relative;
+  top:900px;
+  left:10px;
+}
+
+.mia{
+  position:relative;
+  top:98px;
+  left:210px;
+}
+
+.stext{position:relative;
+  top: 900px;
+  left: -200px;
+
+  }
+
+.sstext{position: relative;
+  top:900px;
+  left:320px;
+
+}
+
+.otext{position: relative;
+  top:805px;
+  left:0px
+
+}
+
+.ootext{position: relative;
+  top:810px;
+  left: 535px;
+
+}
+
+.jtext{position: relative;
+top:1750px;
+padding: 10px;
+left:-290px;
+
+
+  }
+
+.jjtext{position: relative;
+    top:1756px;
+    left:147px;
+
+}
+
+.mtext{position: relative;
+top:1600px;
+
+left:-900px;}
+
+.mmtext{position: relative;
+  top: 1600px;
+  left:-850px;
+}
